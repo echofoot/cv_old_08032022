@@ -43,7 +43,7 @@ p {
 
 hr {
 border-width: 3px;
-width: 40%;
+width: 60%;
 align-content: center;
 border-style: dotted none none;
 color: #BDD2B6;
@@ -65,7 +65,7 @@ border-radius: 30%;
 .centertable {
   margin-left: auto;
   margin-right: auto;
-  width: 40%;
+  width: 60%;
 }
 
 .leftcenter {
